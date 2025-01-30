@@ -1,0 +1,9 @@
+pandas          2.2.3
+Flask           3.1.0
+openpyxl        3.1.5
+
+
+{
+  "file_path": "/home/fury/Documents/SoT_Draft_TT_Jan_April2025.xlsx",
+  "sheet_name": "BSD_FT_MAIN"
+}
